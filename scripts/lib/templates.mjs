@@ -752,7 +752,7 @@ function renderComments(config, base) {
         <p>评论由 GitHub Discussions 托管。登录 GitHub 后即可留言。评论会公开显示，请保护自己和他人的隐私。</p>
       </div>
       <div class="comments-body">${widget}<noscript><p>评论区需要启用 JavaScript。</p></noscript></div>
-      <p class="comments-fallback">如果留言框没有加载，可以直接去 <a href="https://github.com/${escapeAttr(repo)}/discussions" target="_blank" rel="noopener noreferrer">GitHub Discussions</a> 参与讨论。</p>
+      <p class="comments-fallback">如果留言框没有加载，可以尝试关掉watttoolkit等加速器，或者直接去 <a href="https://github.com/${escapeAttr(repo)}/discussions" target="_blank" rel="noopener noreferrer">GitHub Discussions</a> 参与讨论。</p>
     </section>`;
 }
 
