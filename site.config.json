@@ -1,0 +1,105 @@
+{
+  "title": "南窗",
+  "mark": "窗",
+  "wordmark": "南窗",
+  "description": "一个应用心理学硕士生的生活与阅读手记：心理学、日常、南方四季，以及那些慢慢想明白的事。",
+  "author": "南窗",
+  "authorPhoto": "/assets/author.jpg",
+  "authorPhotoAlt": "南窗的作者照片",
+  "authorRole": "应用心理学硕士生 · 在南方生活",
+  "authorNote": "心理学不是读心术，是愿意多听一会儿。",
+  "lang": "zh-CN",
+  "locale": "zh_CN",
+  "url": "https://yourname.github.io",
+  "basePath": "/",
+  "startYear": 2026,
+  "tagline": "在南方读心理学，也记录生活本来的样子。",
+  "categoryOrder": ["心理学笔记", "生活切片", "南方四季", "咨询室之外", "阅读与观影"],
+  "categoryMarks": {
+    "心理学笔记": "心",
+    "生活切片": "日",
+    "南方四季": "雨",
+    "咨询室之外": "见",
+    "阅读与观影": "读"
+  },
+  "categoryDescriptions": {
+    "心理学笔记": "倾听、共情、情绪、边界，以及课堂和实习里反复出现的疑问。",
+    "生活切片": "菜市场、出租屋、清晨和夜晚，具体的人间烟火。",
+    "南方四季": "梅雨、木棉、潮湿的空气，和一个异乡人慢慢熟悉一座城市的过程。",
+    "咨询室之外": "医院走廊、实习见闻，以及关于“助人”这件事的犹豫和反思。",
+    "阅读与观影": "书、电影，和它们留下的回声。"
+  },
+  "bio": "在南方读应用心理学，也在学习怎样好好地生活。这里存放心事、课堂笔记和南方的天气：心理学教我理解人，生活教我别急着下结论。",
+  "hero": {
+    "eyebrow": "应用心理学 · 生活手记",
+    "title": "把日子，",
+    "titleAccent": "写成注脚。",
+    "intro": "这里不急着给出答案。只记录一些具体的时刻：一场下了很久的雨，一次没有给建议的倾听，一句在书里停了很久的话。心理学是我理解人的方式，生活是我练习它的地方。",
+    "image": "/assets/hero-window.svg"
+  },
+  "now": {
+    "title": "此刻",
+    "items": [
+      {
+        "label": "在读",
+        "value": "《也许你该找个人聊聊》，以及一摞咨询过程的研究"
+      },
+      {
+        "label": "在学",
+        "value": "倾听、共情，和如何不急着给建议"
+      },
+      {
+        "label": "在写",
+        "value": "《倾听练习》与南方生活札记"
+      },
+      {
+        "label": "在等",
+        "value": "一场雨停，和明年三月的木棉"
+      }
+    ]
+  },
+  "social": [],
+  "nav": [
+    {
+      "label": "文章",
+      "url": "/posts/"
+    },
+    {
+      "label": "专栏",
+      "url": "/series/"
+    },
+    {
+      "label": "分类",
+      "url": "/categories/"
+    },
+    {
+      "label": "标签",
+      "url": "/tags/"
+    },
+    {
+      "label": "归档",
+      "url": "/archives/"
+    },
+    {
+      "label": "友邻",
+      "url": "/links/"
+    },
+    {
+      "label": "关于",
+      "url": "/about/"
+    }
+  ],
+  "friends": [],
+  "friendApplyUrl": "",
+  "comments": {
+    "provider": "giscus",
+    "repo": "DZRicardo/DZRicardo.github.io",
+    "repoId": "R_kgDOVn1deA",
+    "category": "Announcements",
+    "categoryId": "DIC_kwDOVn1deM4DKtV3",
+    "mapping": "pathname"
+  },
+  "footerNote": "在南方读心理学，也练习好好生活。",
+  "motto": "Slowly, honestly, and with care.",
+  "psychNote": "这里写的是个人学习与生活记录，不构成心理诊断或治疗建议。如果你正在经历持续的困扰，请优先联系学校心理中心或正规医疗机构。"
+}
